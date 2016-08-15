@@ -5,7 +5,7 @@ Fill out this form to begin your coding journey!
 By answering a few questions about themselves, users discover which coding language best suits their passions.
 
 #Setup
-Visit
+Visit http://www.corneezius.com/codepath/
 
 #Technologies
 Made with html, css, javascript
