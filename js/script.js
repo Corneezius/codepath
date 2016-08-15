@@ -2,7 +2,7 @@ $(document).ready(function() {
   $("#submit").click(function(event){
     event.preventDefault();
     var ruby = $("#ruby").val();
-    var front = $("#front").val();
+    var front = $("#frontEnd").val();
     var cPlus = $("#cPlus").val();
     var droid = $("#javas").val();
     var php  = $("#php").val();

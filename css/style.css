@@ -2,6 +2,15 @@ li {
   display: none;
 }
 
-col-xs-5 h1{
+.col-xs-4 h2{
   text-align: right;
+}
+
+.col-xs-8 li h2 {
+  text-align:left;
+  float:left;
+}
+
+.container {
+  width:75%;
 }
